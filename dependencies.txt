@@ -4,6 +4,7 @@ Flutter app:
 - GetFlutter
 - Firebase-core
 - Firebase-auth
+- Firebase-database
 - Cloud Firestore
 - Cupertino Icons
 - Geolocator

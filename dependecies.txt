@@ -1,0 +1,15 @@
+Recipe Dependencies
+
+Flutter app:
+- GetFlutter
+- Firebase-core
+- Firebase-auth
+- Cloud Firestore
+- Cupertino Icons
+- Geolocator
+
+NodeJS program:
+- Puppeteer
+- Spoonacular API
+- Cloud Firestore
+- Axios

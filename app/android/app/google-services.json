@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74141334268",
+    "firebase_url": "https://recipe-bf25d.firebaseio.com",
+    "project_id": "recipe-bf25d",
+    "storage_bucket": "recipe-bf25d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74141334268:android:7835e1d105d5a548763579",
+        "android_client_info": {
+          "package_name": "com.example.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74141334268-pjqenv9u8dc3mtsjedld5p03t757ck6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75JtoiHdnKfHdpnyp9Bd3_f2nTASZN04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74141334268-pjqenv9u8dc3mtsjedld5p03t757ck6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,7 +10,7 @@ We then insert the titles of these products into a findRecipeByProduct query wit
 
 Finally we insert the result of this query, along with other information about the store into the Cloud Firebase database, in the stores collection.
 
-#Flutter-based app
+# Flutter-based app
 Users first create an account and logs into the app. With flutter’s efficent and easy integration with Firebase, we are able to easily implement Firebase features. We use firebase authentication to ensure that our user’s accounts and passwords are encrypted when they enter our server. This will also allow us to implement email/phone verification for accounts in the near future.
 
 After they login, they will be greeted with a welcome screen, that will display stores nearby. This information is retrieved from the store collection in the Cloud Firestore database. They can then select a nearby supermarket that they have decided to go to. The app will then display recipes that can be made from the ingredients from that one selected supermarket. The app uses tracked current store inventory data, so the all needed ingredients are guaranteed to be available at the selected store. 

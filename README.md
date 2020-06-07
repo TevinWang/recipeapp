@@ -1,4 +1,4 @@
-[](app/flutter_01.png)
+![](app/flutter_01.png)
 
 # recipeapp
 See all available recipes in a single supermarket, preventing you from wasting easily avoided time, effort, and energy!

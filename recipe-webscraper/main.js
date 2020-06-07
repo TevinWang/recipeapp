@@ -27,7 +27,7 @@ const selectorForLoadMoreButton = 'div.col-xs-12.col-sm-12.col-md-12.bloom-load-
 
 //--- HTTPS REQUEST FOR SPOONACULAR API ---
 const axios = require('axios');
-const API_KEY = "a5c36fbf6d7045ed8d49a148ee6b2d0d";
+const API_KEY = "API KEY HERE";
 
 
 //--- VARIABLES TO BE CHANGED ---

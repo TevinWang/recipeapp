@@ -3,7 +3,7 @@
 # recipeapp
 See all available recipes in a single supermarket, preventing you from wasting easily avoided time, effort, and energy!
 
-# NodeJS WebScrapper
+# NodeJS WebScraper
 In order to create a database of recipes that relate to the inventory of each store, our nodejs program involves the use of web scraping and automation with puppeteer, and the use of a food recipe api, called spoonacular, and a cloud firestore database.
 
 Puppeteer, a chromium automation plugin for NodeJS, first accesses the Safeway page, clicks all the load more buttons, and uses CSS selector to get the titles of the products.
